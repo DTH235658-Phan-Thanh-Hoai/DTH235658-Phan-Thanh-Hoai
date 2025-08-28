@@ -1,12 +1,5 @@
 
-Hi there, I'm Thanh Hoai 
-### ABOUT ME
----
-
-- 🇻🇳 I'm from VietNam  
-- 🌐 This is my personal website: [https://your-website-link.com](https://your-website-link.com)  
-- 📝 This is my blog & articles: [https://your-blog-link.com](https://your-blog-link.com)  
-
+Hi there, I'm Thanh Hoai
 ---
 
 ❤️ I'm passionate about:
