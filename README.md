@@ -1,23 +1,48 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hi%20I'm%20Thanh%20Hoai!&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20in%20the%20making&descAlignY=55)
 
-Hi there, I'm Thanh Hoai
+I am a junior Information Technology student at **An Giang University**.  
+I am passionate about **software development**, **problem-solving**, and **exploring new technologies**.  
+Currently, I am focusing on improving my skills in **Python, .NET, and Web Development**, with the goal of becoming a **professional Software Engineer** in the near future.
+
+[![GitHub followers](https://img.shields.io/github/followers/DTH235658-Phan-Thanh-Hoai?style=social)](https://github.com/DTH235658-Phan-Thanh-Hoai)
+[![GitHub stars](https://img.shields.io/github/stars/DTH235658-Phan-Thanh-Hoai?style=social)](https://github.com/DTH235658-Phan-Thanh-Hoai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thanh-ho%C3%A0i-phan-832530381)
+
 ---
 
-❤️ I'm passionate about:
-- 🔐 Information Security  
-- 💻 Operating Systems (Windows & Linux)  
-- 🌍 Web Development  
+## 🛠️ SKILLS AND TOOLS
+
+**LANGUAGES**  
+<img src="https://skillicons.dev/icons?i=python,java,cs,c,cpp&perline=5" />
+
+**FRAMEWORKS AND TOOL**  
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,django&perline=5" />
+
+**DATABASES**  
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" height="48" />
+  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" height="48"/>
+</p>
+
+
+**OTHER TOOLS**  
+<img src="https://skillicons.dev/icons?i=git,vscode&perline=5" />
 
 ---
 
-### SKILLS AND TOOLS
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+## 📊 GITHUB STATS
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DTH235658-Phan-Thanh-Hoai&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DTH235658-Phan-Thanh-Hoai&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=DTH235658-Phan-Thanh-Hoai&theme=radical&hide_border=false)
+
 ---
 
-📊 GitHub Stats  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DTH235658-Phan-Thanh-Hoai&show_icons=true&theme=radical)
+## 📫 CONTACT
+<a href="mailto:thanhhoai08.work@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://www.linkedin.com/in/thanh-ho%C3%A0i-phan-832530381"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://github.com/DTH235658-Phan-Thanh-Hoai"><img src="https://skillicons.dev/icons?i=github" /></a>
 
+---
 
+*"Strive not to be a success, but rather to be of value." – Albert Einstein*
